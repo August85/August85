@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Abhimanyu Katyayan</h1>
+<p align="center">
+  <img src="assets/matrix.svg" width="100%" alt="Abhimanyu Katyayan" />
+</p>
 
 <p align="center">
   <b>Distinguished Engineer @ Walmart Global Tech</b> · AI Plumber · Polyglot builder<br/>
@@ -108,14 +110,9 @@ Principal Engineer and AI/ML Architect with **17+ years** building large-scale d
 
 ### Career path
 
-```text
-2026 ─ Distinguished Engineer ........ Walmart Global Tech (Bay Area)
-2024 ─ Principal Software Engineer ... Walmart Global Tech (Bay Area)
-2019 ─ Staff → Principal Engineer .... Walmart Global Tech India (Bengaluru)
-2013 ─ Product Eng → Tech Lead → Associate Technical Architect ... Ugam (Mumbai, Bengaluru)
-2009 ─ Software → Senior Engineer .... Diebold (Mumbai): core ATM software, mobile apps
-2008 ─ BE, Computer Science .......... Savitribai Phule Pune University
-```
+<p align="center">
+  <img src="assets/career.svg" width="100%" alt="Career timeline: Diebold (2009), Ugam (2013), Walmart Global Tech India (2019), Walmart Global Tech Bay Area (2024), Distinguished Engineer (2026)" />
+</p>
 
 ### Certifications
 

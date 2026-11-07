@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="476" viewBox="0 0 880 476" role="img" aria-label="Career timeline, 2004 to today">
+<style>
+  :root { --fg:#1f2328; --mute:#59636e; --grid:#d8dee4; --grid2:#eef1f4; }
+  @media (prefers-color-scheme: dark) { :root { --fg:#e6edf3; --mute:#9198a1; --grid:#30363d; --grid2:#21262d; } }
+  text { font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif; }
+  .title { font-size:17px; font-weight:700; fill:var(--fg); }
+  .hint { font-size:12px; fill:var(--mute); }
+  .role { font-size:13px; font-weight:600; fill:var(--fg); }
+  .role.cur { fill:#2563eb; }
+  .comp, .yr, .lbl { font-size:11px; fill:var(--mute); }
+  .now { font-size:11px; font-weight:700; fill:#2563eb; }
+  .era-t { font-size:12px; font-weight:600; }
+  .g { stroke:var(--grid); stroke-width:1; }
+  .g2 { stroke:var(--grid2); stroke-width:1; }
+  .bar, .era { transform-box:fill-box; transform-origin:left center; animation:grow .9s cubic-bezier(.2,.8,.2,1) both; }
+  .era { opacity:.85; }
+  @keyframes grow { from { transform:scaleX(0); } to { transform:scaleX(1); } }
+  .pulse { transform-box:fill-box; transform-origin:center; animation:pulse 2s ease-out infinite; }
+  @keyframes pulse { 0% { transform:scale(.7); opacity:.7; } 100% { transform:scale(2.4); opacity:0; } }
+  @media (prefers-reduced-motion: reduce) { .bar, .era, .pulse { animation:none; } }
+</style>
+<text class="title" x="256" y="24" text-anchor="end">17+ years</text>
+<text class="hint" x="270" y="24">from ATM software to AI agents</text>
+<line class="g" x1="270.0" y1="50" x2="270.0" y2="358"/>
+<text class="yr" x="270.0" y="376" text-anchor="middle">2004</text>
+<line class="g2" x1="295.2" y1="50" x2="295.2" y2="358"/>
+<line class="g" x1="320.4" y1="50" x2="320.4" y2="358"/>
+<text class="yr" x="320.4" y="376" text-anchor="middle">2006</text>
+<line class="g2" x1="345.7" y1="50" x2="345.7" y2="358"/>
+<line class="g" x1="370.9" y1="50" x2="370.9" y2="358"/>
+<text class="yr" x="370.9" y="376" text-anchor="middle">2008</text>
+<line class="g2" x1="396.1" y1="50" x2="396.1" y2="358"/>
+<line class="g" x1="421.3" y1="50" x2="421.3" y2="358"/>
+<text class="yr" x="421.3" y="376" text-anchor="middle">2010</text>
+<line class="g2" x1="446.5" y1="50" x2="446.5" y2="358"/>
+<line class="g" x1="471.7" y1="50" x2="471.7" y2="358"/>
+<text class="yr" x="471.7" y="376" text-anchor="middle">2012</text>
+<line class="g2" x1="497.0" y1="50" x2="497.0" y2="358"/>
+<line class="g" x1="522.2" y1="50" x2="522.2" y2="358"/>
+<text class="yr" x="522.2" y="376" text-anchor="middle">2014</text>
+<line class="g2" x1="547.4" y1="50" x2="547.4" y2="358"/>
+<line class="g" x1="572.6" y1="50" x2="572.6" y2="358"/>
+<text class="yr" x="572.6" y="376" text-anchor="middle">2016</text>
+<line class="g2" x1="597.8" y1="50" x2="597.8" y2="358"/>
+<line class="g" x1="623.0" y1="50" x2="623.0" y2="358"/>
+<text class="yr" x="623.0" y="376" text-anchor="middle">2018</text>
+<line class="g2" x1="648.3" y1="50" x2="648.3" y2="358"/>
+<line class="g" x1="673.5" y1="50" x2="673.5" y2="358"/>
+<text class="yr" x="673.5" y="376" text-anchor="middle">2020</text>
+<line class="g2" x1="698.7" y1="50" x2="698.7" y2="358"/>
+<line class="g" x1="723.9" y1="50" x2="723.9" y2="358"/>
+<text class="yr" x="723.9" y="376" text-anchor="middle">2022</text>
+<line class="g2" x1="749.1" y1="50" x2="749.1" y2="358"/>
+<line class="g" x1="774.3" y1="50" x2="774.3" y2="358"/>
+<text class="yr" x="774.3" y="376" text-anchor="middle">2024</text>
+<line class="g2" x1="799.6" y1="50" x2="799.6" y2="358"/>
+<line class="g" x1="824.8" y1="50" x2="824.8" y2="358"/>
+<text class="yr" x="824.8" y="376" text-anchor="middle">2026</text>
+<line class="g2" x1="850.0" y1="50" x2="850.0" y2="358"/>
+<text class="role cur" x="256" y="71" text-anchor="end">Distinguished Engineer</text>
+<text class="comp" x="256" y="83" text-anchor="end">Walmart Global Tech, Bay Area</text>
+<rect class="bar" style="animation-delay:1.77s" x="841.7" y="63" width="4.5" height="16" rx="5" fill="#2563eb"/>
+<circle class="pulse" cx="846.2" cy="71" r="6" fill="#2563eb"/>
+<circle cx="846.2" cy="71" r="4" fill="#2563eb"/>
+<text class="now" x="856.2" y="75">now</text>
+<text class="role" x="256" y="101" text-anchor="end">Principal Software Engineer</text>
+<text class="comp" x="256" y="113" text-anchor="end">Walmart Global Tech, Bay Area</text>
+<rect class="bar" style="animation-delay:1.59s" x="784.9" y="93" width="56.7" height="16" rx="5" fill="#2563eb"/>
+<text class="role" x="256" y="131" text-anchor="end">Principal Software Engineer</text>
+<text class="comp" x="256" y="143" text-anchor="end">Walmart Global Tech India</text>
+<rect class="bar" style="animation-delay:1.41s" x="733.5" y="123" width="36.6" height="16" rx="5" fill="#0ea5e9"/>
+<text class="role" x="256" y="161" text-anchor="end">Staff Software Engineer</text>
+<text class="comp" x="256" y="173" text-anchor="end">Walmart Global Tech India</text>
+<rect class="bar" style="animation-delay:1.23s" x="657.8" y="153" width="75.7" height="16" rx="5" fill="#0ea5e9"/>
+<text class="role" x="256" y="191" text-anchor="end">Associate Technical Architect</text>
+<text class="comp" x="256" y="203" text-anchor="end">Ugam</text>
+<rect class="bar" style="animation-delay:1.05s" x="629.3" y="183" width="28.5" height="16" rx="5" fill="#a855f7"/>
+<text class="role" x="256" y="221" text-anchor="end">Tech Lead</text>
+<text class="comp" x="256" y="233" text-anchor="end">Ugam</text>
+<rect class="bar" style="animation-delay:0.87s" x="553.7" y="213" width="75.7" height="16" rx="5" fill="#a855f7"/>
+<text class="role" x="256" y="251" text-anchor="end">Product Engineer</text>
+<text class="comp" x="256" y="263" text-anchor="end">Ugam</text>
+<rect class="bar" style="animation-delay:0.69s" x="509.6" y="243" width="44.1" height="16" rx="5" fill="#a855f7"/>
+<text class="role" x="256" y="281" text-anchor="end">Senior Software Engineer</text>
+<text class="comp" x="256" y="293" text-anchor="end">Diebold</text>
+<rect class="bar" style="animation-delay:0.51s" x="476.0" y="273" width="33.5" height="16" rx="5" fill="#f59e0b"/>
+<text class="role" x="256" y="311" text-anchor="end">Software Engineer</text>
+<text class="comp" x="256" y="323" text-anchor="end">Diebold</text>
+<rect class="bar" style="animation-delay:0.33s" x="400.4" y="303" width="75.7" height="16" rx="5" fill="#f59e0b"/>
+<text class="role" x="256" y="341" text-anchor="end">BE, Computer Science</text>
+<text class="comp" x="256" y="353" text-anchor="end">Savitribai Phule Pune Univ.</text>
+<rect class="bar" style="animation-delay:0.15s" x="282.6" y="333" width="100.9" height="16" rx="5" fill="#8b949e"/>
+<text class="lbl" x="256" y="411" text-anchor="end">Focus</text>
+<rect class="era" style="animation-delay:1.90s" x="282.6" y="396" width="100.9" height="22" rx="6" fill="#8b949e"/>
+<rect class="era" style="animation-delay:2.05s" x="400.4" y="396" width="109.2" height="22" rx="6" fill="#f59e0b"/>
+<rect class="era" style="animation-delay:2.20s" x="509.6" y="396" width="148.3" height="22" rx="6" fill="#a855f7"/>
+<rect class="era" style="animation-delay:2.35s" x="657.8" y="396" width="112.2" height="22" rx="6" fill="#0ea5e9"/>
+<rect class="era" style="animation-delay:2.50s" x="784.9" y="396" width="61.3" height="22" rx="6" fill="#2563eb"/>
+<text class="era-t" x="333.0" y="438" text-anchor="middle" fill="#8b949e">CS foundations</text>
+<text class="era-t" x="455.0" y="456" text-anchor="middle" fill="#f59e0b">ATMs &amp; mobile</text>
+<text class="era-t" x="583.7" y="438" text-anchor="middle" fill="#a855f7">Big data, NLP &amp; ML at scale</text>
+<text class="era-t" x="714.0" y="456" text-anchor="middle" fill="#0ea5e9">Cloud data platforms</text>
+<text class="era-t" x="846.2" y="438" text-anchor="end" fill="#2563eb">GenAI &amp; AI agents</text>
+</svg>
