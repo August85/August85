@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abhimanyu Katyayan 👋</h1>
+<h1 align="center">Hi, I'm Abhimanyu Katyayan</h1>
 
 <p align="center">
   <b>Distinguished Engineer @ Walmart Global Tech</b> · AI Plumber · Polyglot builder<br/>
@@ -17,33 +17,33 @@
 
 ---
 
-### 🧭 About me
+### About me
 
 Principal Engineer and AI/ML Architect with **17+ years** building large-scale distributed systems, cloud-native platforms and AI-powered products across **AdTech, Retail, Payments, Big Data and Machine Learning**.
 
-- 🤖 Leading **GenAI and AI platform** work at Walmart: autonomous agent frameworks ("Super Agents"), recommendation systems and enterprise AI adoption
-- 📈 Built media analytics, attribution and **Marketing Mix Modeling** platforms that help advertisers measure impact and spend smarter
-- ⚙️ Happiest in the gap between research and production: turning new AI ideas into systems that run at massive scale
-- 🚀 Right now: [**Ship 100**](https://github.com/August85/ship100), one product a day for 100 days
-- 🧑‍🏫 I enjoy mentoring teams, solving hard engineering problems and learning new stacks fast
+- Leading **GenAI and AI platform** work at Walmart: autonomous agent frameworks ("Super Agents"), recommendation systems and enterprise AI adoption
+- Built media analytics, attribution and **Marketing Mix Modeling** platforms that help advertisers measure impact and spend smarter
+- Happiest in the gap between research and production: turning new AI ideas into systems that run at massive scale
+- Right now: [**Ship 100**](https://github.com/August85/ship100), one product a day for 100 days
+- I enjoy mentoring teams, solving hard engineering problems and learning new stacks fast
 
 ---
 
-### 🏆 Highlights
+### Highlights
 
 | | |
 |---|---|
-| 🎖️ **Distinguished Engineer**, Walmart Global Tech | Promoted Sept 2026 after Staff → Principal roles in India and the US |
-| 🧠 **AI agent frameworks** | Architect of "Super Agents" bringing agentic automation across multiple B2B platforms |
-| ☁️ **Cloud migration at scale** | Moved on-prem data platforms to GCP/Azure with high-volume, event-driven pipelines |
-| 🔬 **Deep learning on Spark** | Built a distributed *build → train → deploy* framework for ML models with Spark + TensorFlow |
-| 🗣️ **NLP engines** | Product categorization and attribution engines for online retail giants |
-| 🏅 **Golden Pyramid Award** | Recognized at Ugam for technical contribution |
-| 🎤 **Community** | Speaker at the [Bangalore AI/ML Meetup](https://github.com/August85/TechMeet-3rdFeb-2018) |
+| **Distinguished Engineer**, Walmart Global Tech | Promoted Sept 2026 after Staff → Principal roles in India and the US |
+| **AI agent frameworks** | Architect of "Super Agents" bringing agentic automation across multiple B2B platforms |
+| **Cloud migration at scale** | Moved on-prem data platforms to GCP/Azure with high-volume, event-driven pipelines |
+| **Deep learning on Spark** | Built a distributed *build → train → deploy* framework for ML models with Spark + TensorFlow |
+| **NLP engines** | Product categorization and attribution engines for online retail giants |
+| **Golden Pyramid Award** | Recognized at Ugam for technical contribution |
+| **Community** | Speaker at the [Bangalore AI/ML Meetup](https://github.com/August85/TechMeet-3rdFeb-2018) |
 
 ---
 
-### 🛠️ What I work with
+### What I work with
 
 **Generative AI & ML**
 <p>
@@ -81,7 +81,7 @@ Principal Engineer and AI/ML Architect with **17+ years** building large-scale d
 
 ---
 
-### 🚀 Things I've built lately
+### Things I've built lately
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -97,7 +97,16 @@ Principal Engineer and AI/ML Architect with **17+ years** building large-scale d
 
 ---
 
-### 🗺️ Career path
+### Beyond code
+
+- **Speedcuber:** I solve the Rubik's Cube, with a personal best under 20 seconds
+- **Guitarist:** I play guitar when I'm away from the keyboard
+- **Reader:** I'm an avid reader of Hindi literature
+- **Future author:** one day I want to write books of my own
+
+---
+
+### Career path
 
 ```text
 2026 ─ Distinguished Engineer ........ Walmart Global Tech (Bay Area)
@@ -108,7 +117,7 @@ Principal Engineer and AI/ML Architect with **17+ years** building large-scale d
 2008 ─ BE, Computer Science .......... Savitribai Phule Pune University
 ```
 
-### 📜 Certifications
+### Certifications
 
 Improving Deep Neural Networks · Convolutional Neural Networks · Structuring Machine Learning Projects · GCP Big Data and Machine Learning Fundamentals · A Crash Course in Data Science
 
